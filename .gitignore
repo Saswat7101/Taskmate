@@ -125,12 +125,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Static files
-staticfiles/
-
-# Media files
-media/
-
 # Django migrations - usually tracked, but ignoring __pycache__ inside migrations
 **/migrations/__pycache__/
 
