@@ -5,7 +5,7 @@ Taskmate is a web-based task management application built with Django. It allows
 ## Deployment
 
 This project has been deployed using Railway and is accessible at:  
-[https://taskmate-sm.up.railway.app/todolist/](https://taskmate-sm.up.railway.app/)
+[https://taskmate-sm.up.railway.app/](https://taskmate-sm.up.railway.app/)
 
 ## Demo
 
