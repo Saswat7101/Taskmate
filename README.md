@@ -1,6 +1,6 @@
 # Taskmate
 
-Taskmate is a web-based task management application built with Django. It allows users to create, edit, and manage their to-do lists efficiently with a clean and user-friendly interface.
+Taskmate is a task manager web application build using Django Framework. The aim of this project was to understand the working of Django Framework along with it's common features like MVT architecture, working with forms, default authentication, .env files and the deployment process on Railway platform along with PostgreSQL database.
 
 ## Deployment
 
@@ -13,13 +13,10 @@ Below are some demo images and videos showcasing the functionality of Taskmate:
 
 <!-- Insert demo images here -->
 
-![Demo Image 1](path/to/demo-image1.png)  
-![Demo Image 2](path/to/demo-image2.png)
-
-<!-- Insert demo videos here -->
-
-[Demo Video 1](path/to/demo-video1.mp4)  
-[Demo Video 2](path/to/demo-video2.mp4)
+![App Screenshot](static/images/taskmate-1.png)
+![App Screenshot](static/images/taskmate-2.png)
+![App Screenshot](static/images/taskmate-3.png)
+![App Screenshot](static/images/taskmate-4.png)
 
 ## Features
 
