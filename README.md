@@ -9,7 +9,7 @@ This project has been deployed using Railway and is accessible at:
 
 ## Demo
 
-Below are some demo images and videos showcasing the functionality of Taskmate:
+Below are some demo images showcasing the functionality of Taskmate:
 
 <!-- Insert demo images here -->
 
